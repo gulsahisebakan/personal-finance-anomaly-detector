@@ -88,7 +88,7 @@ The project has three stages, each in its own Python file:
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/personal-finance-anomaly-detector.git
+git clone https://github.com/gulsahisebakan/personal-finance-anomaly-detector.git
 cd personal-finance-anomaly-detector
 
 # 2. Create and activate virtual environment
