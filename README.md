@@ -143,16 +143,6 @@ personal-finance-anomaly-detector/
 
 ---
 
-## 🔮 Future Improvements
-
-- [ ] Connect to a real bank API (e.g. Plaid) to use actual transaction data
-- [ ] Add email/SMS alerts when a new anomaly is detected
-- [ ] Implement a budget forecasting module using time series analysis
-- [ ] Add user authentication so multiple users can track their own finances
-- [ ] Deploy to a cloud platform (Heroku, Railway, or AWS)
-
----
-
 ## 📄 License
 
 MIT License — feel free to use, modify, and distribute this project.
